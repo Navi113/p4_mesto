@@ -1,6 +1,32 @@
-/* form */
-@import url(./blocks/form/form.css);
-@import url(./blocks/form/__btn-close/form__btn-close.css);
+/* page */
+@import url(./blocks/page/page.css);
+
+/* popup */
+@import url(./blocks/popup/popup.css);
+@import url(./blocks/popup/__container/popup__container.css);
+@import url(./blocks/popup/__btn-close/popup__btn-close.css);
+@import url(./blocks/popup/__heading/popup__heading.css);
+@import url(./blocks/popup/__input/popup__input.css);
+@import url(./blocks/popup/__btn-submit/popup__btn-submit.css);
+
+
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+
 
 /* overlay */
 @import url(./blocks/overlay/overlay.css);
