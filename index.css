@@ -8,6 +8,7 @@
 @import url(./blocks/popup/__heading/popup__heading.css);
 @import url(./blocks/popup/__input/popup__input.css);
 @import url(./blocks/popup/__btn-submit/popup__btn-submit.css);
+@import url(./blocks/popup/_opened/popup_opened.css);
 
 
 @import url();
